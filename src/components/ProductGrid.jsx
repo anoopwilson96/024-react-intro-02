@@ -12,8 +12,8 @@ function ProductGrid(){
       </button>
     </div>
     <div className="col-6 col-md-6 col-xl-4 image-fluid d-flex flex-column justify-content-center align-items-center ">
-      <img src="./images/green kurta.webp" alt="" />
-      <h3> Black Skirt </h3>
+      <img src="./images/croptop-1.webp" alt="" />
+      <h3> Crop top </h3>
       <span>Women's skirt XL</span>
       <button type="button" className="btn btn-success">
         Add +
