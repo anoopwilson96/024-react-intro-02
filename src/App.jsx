@@ -14,7 +14,7 @@ function App() {
     <MyHeader/>
     <SectionOne/>
     <SectionTwo/>
-    <ProductGrid/>
+    <ProductGrid />
     <MyFooter/>
     </>
   )
